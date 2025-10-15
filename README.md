@@ -1,7 +1,5 @@
 ## Hi there 
-<!-
-**Queenestydev/Queenestydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
--->
+
 - 🔭 I’m currently working on a cloud migration project.
 - 🌱 I’m currently learning AI.
 - 👯 I’m looking to collaborate on open-source projects, and artificial intelligence.
